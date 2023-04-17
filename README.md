@@ -1,13 +1,9 @@
 # sdmnlt
 Learning smooth dendrite morphological neurons for pattern classification using linkage trees and evolutionary-based hyperparameter tuning
 
- First run "run_first.m" file.
- 
- This material contains the necessary functions for
- the reproducibility of the work presented in the paper 
- "Learning smooth dendrite morphological neurons for pattern classification
- ... using linkage trees and evolutionary-based hyperparameter tuning" 
- divided in seven subfolders: 
+First run "run_first.m" file.
+
+This material contains the necessary functions for the reproducibility of the work presented in the paper "Learning smooth dendrite morphological neurons for pattern classification using linkage trees and evolutionary-based hyperparameter tuning" divided in seven subfolders: 
    
    C-functions/Source-C-Codes 
    -----------
