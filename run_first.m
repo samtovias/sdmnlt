@@ -6,5 +6,4 @@ addpath(genpath(fullfile(pwd,'datasets')));
 addpath(fullfile(pwd,'normalization'));
 addpath(fullfile(pwd,'performance_metrics'));
 addpath(fullfile(pwd,'resampling'));
-addpath(fullfile(pwd,'results'));
 addpath(fullfile(pwd,'sdmnlt'));
