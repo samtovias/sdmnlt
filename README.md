@@ -3,7 +3,7 @@ Learning smooth dendrite morphological neurons for pattern classification using 
 
 First run "run_first.m" file.
 
-This material contains the necessary functions for the reproducibility of the method proposed in the paper "Learning smooth dendrite morphological neurons for pattern classification using linkage trees and evolutionary-based hyperparameter tuning." The functions are divided into seven subfolders:
+This material contains the necessary functions for the reproducibility of the method proposed in the paper "Learning smooth dendrite morphological neurons for pattern classification using linkage trees and evolutionary-based hyperparameter tuning." The functions are divided into six subfolders:
    
    C-functions/Source-C-Codes 
    -----------
@@ -32,10 +32,6 @@ This material contains the necessary functions for the reproducibility of the me
    resampling 
    --------------
        split_data - Split the data into training and validation sets    
-   
-   results
-   --------------
-       sdmnlt - Results of the proposed SDMN-LT model
        
    sdmnlt 
    --------------
